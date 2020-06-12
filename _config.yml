@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# 欢迎来到mengru的博客！
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,18 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 新年快乐，恭喜发财！！！！!!!!!
+title: Mengru's Blog
+url: "https://github.com/MengruHan/mengruhan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/mengruhan.github.io" # the subpath of your site, e.g. /blog
 email: ru.han@openapply.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+              测试进行中
+
+
 twitter_username: 未注册
 github_username:  mengruhan
 
-# Build settings
+
 theme: minima
 plugins:
   - jekyll-feed
@@ -53,3 +53,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#Write an awesome description for your new site here. You can edit this
+  #  line in _config.yml. It will appear in your document head meta (for
+  #  Google search results) and in your feed.xml site description.
