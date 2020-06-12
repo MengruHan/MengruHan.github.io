@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "你瞅啥？"
+title:  "你瞅啥？瞅你咋地？"
 date:   2020-06-10 17:00:42 +0800
 categories: jekyll update
 ---
