@@ -1,10 +1,13 @@
 Enter the following command to check the version of gem,ruby
 # gem -v
 # ruby -v
+
 check source address
 #gem sources -l
+
 remove sources address
 #sudo gem sources --remove http://rubygems.org/
+
 add new address
 #sudo gem sources -add 
 
@@ -18,18 +21,23 @@ Ruby
 Install RVM (rvm is Ruby's version manager, rvm allows you to have multiple versions of Ruby, and between them Switch freely.)
 #curl -L get.rvm.io | bash -s stable
 #source ~/.rvm/scripts/rvm
+
 Then input
 #rvm -v 
 
 Install rvm
 List the versions of ruby that can be installed
 # Rvm list know
+
 Installing a ruby version
 #rvm install 2.7.0
+
 Setting  default
 #rvm use 2.7.0 —default
+
 View installed ruby 
 #rvm list
+
 Uninstall a version of ruby that is already installed
 #rvm remove 2.4.1
 
