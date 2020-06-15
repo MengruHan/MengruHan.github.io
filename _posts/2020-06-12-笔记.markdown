@@ -26,7 +26,7 @@
 #### curl -L get.rvm.io | bash -s stable
 #### source ~/.rvm/scripts/rvm
 
-##nThen input
+## Then input
 #### rvm -v 
 
 ## Install rvm
