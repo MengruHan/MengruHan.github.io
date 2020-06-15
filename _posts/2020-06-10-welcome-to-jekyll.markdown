@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "关于blog的PPT"
+title:  "第一篇"
 date:   2020-06-10 17:00:42 +0800
 categories: jekyll update
 ---
